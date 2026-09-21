@@ -1,0 +1,6 @@
+{
+  "name": "SDES Transport Nowcast & Bilan",
+  "description": "Plateforme d'estimation intelligente et de reproduction à date des fiches thématiques du Bilan annuel des transports du SDES (fret, voyageurs, GES, énergie, dépenses, immatriculations).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
